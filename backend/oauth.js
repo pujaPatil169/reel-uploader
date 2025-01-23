@@ -41,8 +41,8 @@ const getAccessToken = async (userId, platform) => {
 };
 
 // Instagram OAuth
-const INSTAGRAM_CLIENT_ID = 'YOUR_CLIENT_ID';
-const INSTAGRAM_CLIENT_SECRET = 'YOUR_CLIENT_SECRET';
+const INSTAGRAM_CLIENT_ID = '';
+const INSTAGRAM_CLIENT_SECRET = '';
 const INSTAGRAM_REDIRECT_URI = 'http://localhost:3000/api/auth/instagram/callback';
 
 // Instagram OAuth Route
