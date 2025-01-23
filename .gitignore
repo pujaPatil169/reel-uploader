@@ -1,0 +1,14 @@
+# Node modules
+node_modules/
+# Log files
+*.log
+# Environment variables
+.env
+# Build directories
+dist/
+build/
+# Access tokens and sensitive data
+backend/accessToken.json
+# Other common ignores
+package-lock.json
+*.DS_Store
